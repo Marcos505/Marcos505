@@ -2,4 +2,4 @@
 
 - 🌱 I’m currently learning HTML5, CSS, JAVASCRIPT, REACT.
 - 🤔 I’m looking for help with JAVASCRIPT.
-- 📫 How to reach me: @Mrcos505
+- 📫 How to reach me: @Marcos505
